@@ -27,8 +27,8 @@ h1 {
   height: 400px;
 }
 .slider img {
-  width: 900px;
   height: 400px;
+  margin-left: 200px;
   object-fit: cover;
 }
 
